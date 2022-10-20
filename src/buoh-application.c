@@ -418,9 +418,9 @@ static void buoh_application_class_init (BuohApplicationClass * klass)
     GObjectClass      * object_class = G_OBJECT_CLASS (klass);
     GApplicationClass * app_class    = G_APPLICATION_CLASS (klass);
 
-    object_class->finalize = buoh_application_finalize;
     app_class->activate    = buoh_application_activate;
     app_class->startup     = buoh_application_startup;
+    object_class->finalize = buoh_application_finalize;
 }
 
 void
