@@ -419,6 +419,7 @@ BuohApplication * buoh_application_get_instance (void)
 
     if (buoh) return buoh;
 
+    /*                           GType           property_name     property_value        */
     return g_object_new (BUOH_TYPE_APPLICATION, "application-id", "org.gnome.buoh", NULL);
 }
 
