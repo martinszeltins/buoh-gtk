@@ -1,0 +1,452 @@
+# Swedish translation for buoh.
+# Copyright © 2010-2022 Free Software Foundation, Inc.
+# This file is distributed under the same license as the buoh package.
+# Daniel Nylander <po@danielnylander.se>, 2010.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2019, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: buoh\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/buoh/issues\n"
+"POT-Creation-Date: 2022-05-04 00:16+0000\n"
+"PO-Revision-Date: 2022-05-04 16:20+0200\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: data/org.gnome.buoh.appdata.xml.in:6 data/org.gnome.buoh.desktop.in:3
+#: data/ui/window.ui:8
+msgid "Buoh"
+msgstr "Buoh"
+
+#: data/org.gnome.buoh.appdata.xml.in:7 src/buoh-window.c:691
+msgid "Online comic strips reader"
+msgstr "Nätseriestrippläsare"
+
+#: data/org.gnome.buoh.appdata.xml.in:9
+msgid ""
+"Buoh is an application for viewing online comic strips and webcomics, "
+"designed to look and work well under the GNOME desktop. Select your favorite "
+"comic from a list of more than 130 comics and read them in a simple, clean, "
+"and easy to use interface. Additionally, you can browse through the comic "
+"strip archives or save a comic to disk."
+msgstr ""
+"Buoh är ett program för att visa nätseriestrippar och webbserier, designat "
+"för att se ut och fungera bra under GNOME-skrivbordet. Välj dina "
+"favoritserier från en lista av över 130 seriestrippar och läs dem i ett "
+"enkelt, stilrent och lättanvänt gränssnitt. Du kan dessutom bläddra genom "
+"seriestripparkiven eller spara en stripp till disk."
+
+#: data/org.gnome.buoh.appdata.xml.in:139
+msgid "General view of Buoh"
+msgstr "Allmän vy över Buoh"
+
+#: data/org.gnome.buoh.appdata.xml.in:143
+msgid "First execution of Buoh"
+msgstr "Första körningen av Buoh"
+
+#: data/org.gnome.buoh.appdata.xml.in:147
+msgid "Add comic dialog"
+msgstr "Dialogruta för att lägga till serier"
+
+#: data/org.gnome.buoh.appdata.xml.in:151
+msgid "Comic properties dialog"
+msgstr "Dialogruta för serieegenskaper"
+
+#: data/org.gnome.buoh.desktop.in:4
+msgid "Comics Reader"
+msgstr "Seriestrippläsare"
+
+#: data/org.gnome.buoh.desktop.in:5
+msgid "Read your favorite comic strips"
+msgstr "Läs dina favoritseriestrippar"
+
+#. Translators: These are desktop search terms. Do not translate semicolons, end line with a semicolon.
+#: data/org.gnome.buoh.desktop.in:7
+msgid "comics;webcomics;comic strips;"
+msgstr "serie;webbserie;seriestrippar;"
+
+#: data/org.gnome.buoh.gschema.xml:6
+msgid "Show toolbar by default"
+msgstr "Visa verktygsfält som standard"
+
+#: data/org.gnome.buoh.gschema.xml:7
+msgid ""
+"Toolbar is the top bar that contains navigation and zoom controls. Two "
+"boolean options, true makes toolbar visible by default while false makes "
+"toolbar not visible by default."
+msgstr ""
+"Verktygsfältet är den övre rad som innehåller kontroller för navigering och "
+"zoomning. Det finns två booleska alternativ, true (sant) får verktygsfältet "
+"att vara synligt som standard medan false (falskt) får det att vara dolt som "
+"standard."
+
+#: data/org.gnome.buoh.gschema.xml:11
+msgid "Show statusbar by default"
+msgstr "Visa statusrad som standard"
+
+#: data/org.gnome.buoh.gschema.xml:12
+msgid ""
+"Statusbar is the bottom bar that contains help and status messages. Two "
+"boolean options, true makes statusbar visible by default while false makes "
+"statusbar not visible by default."
+msgstr ""
+"Statusraden är den nedre rad som innehåller hjälp- och statusmeddelanden. "
+"Det finns två booleska alternativ, true (sant) får statusraden att vara "
+"synlig som standard medan false (falskt) får den att vara dold som standard."
+
+#: data/org.gnome.buoh.gschema.xml:16
+msgid "Select viewer zoom mode"
+msgstr "Välj zoomläge för visaren"
+
+#: data/org.gnome.buoh.gschema.xml:17
+msgid ""
+"There are two zoom modes available, 'best-fit' makes the current comic fill "
+"the window, 'fit-width' makes the current comic fill the window width."
+msgstr ""
+"Det finns två tillgängliga zoomlägen, ”best-fit” får aktuell stripp att "
+"fylla fönstret, ”fit-width” får aktuell stripp att fylla fönstrets bredd."
+
+#: data/ui/add-comic-dialog.ui:7
+msgid "Add Comic"
+msgstr "Lägg till en seriestripp"
+
+#: data/ui/add-comic-dialog.ui:22 data/ui/properties-dialog.ui:20
+msgid "_Close"
+msgstr "S_täng"
+
+#: data/ui/add-comic-dialog.ui:80 data/ui/comic-list.ui:23
+msgid "Title"
+msgstr "Titel"
+
+#: data/ui/add-comic-dialog.ui:95
+msgid "Author"
+msgstr "Upphovsman"
+
+#: data/ui/add-comic-dialog.ui:129
+msgid "Select Comics"
+msgstr "Välj serier"
+
+#: data/ui/menus.ui:5
+msgid "_Comic"
+msgstr "_Serie"
+
+#: data/ui/menus.ui:8 data/ui/menus.ui:169
+msgid "_Add…"
+msgstr "_Lägg till…"
+
+#: data/ui/menus.ui:13 data/ui/menus.ui:174
+msgid "_Remove"
+msgstr "_Ta bort"
+
+#: data/ui/menus.ui:21 data/ui/menus.ui:153
+msgid "_Save a Copy…"
+msgstr "_Spara en kopia…"
+
+#: data/ui/menus.ui:24 data/ui/menus.ui:156
+msgid "_Copy Location"
+msgstr "_Kopiera plats"
+
+#: data/ui/menus.ui:30 data/ui/menus.ui:162
+msgid "_Properties…"
+msgstr "_Egenskaper…"
+
+#: data/ui/menus.ui:35
+msgid "_Quit"
+msgstr "A_vsluta"
+
+#: data/ui/menus.ui:42
+msgid "_View"
+msgstr "_Visa"
+
+#: data/ui/menus.ui:45
+msgid "_Toolbar"
+msgstr "Ver_ktygsfält"
+
+#: data/ui/menus.ui:49
+msgid "St_atusbar"
+msgstr "St_atusrad"
+
+#: data/ui/menus.ui:55 data/ui/menus.ui:135
+msgid "Zoom _In"
+msgstr "Zooma _in"
+
+#: data/ui/menus.ui:60 data/ui/menus.ui:140
+msgid "Zoom _Out"
+msgstr "Zooma _ut"
+
+#: data/ui/menus.ui:67 data/ui/menus.ui:147
+msgid "_Normal Size"
+msgstr "_Normal storlek"
+
+#: data/ui/menus.ui:73
+msgid "_Best Fit"
+msgstr "_Bästa passning"
+
+#: data/ui/menus.ui:78
+msgid "Fit Comic _Width"
+msgstr "Passa strippens b_redd"
+
+#: data/ui/menus.ui:83
+msgid "_Go"
+msgstr "_Gå"
+
+#: data/ui/menus.ui:86 data/ui/menus.ui:123
+msgid "_Previous Comic"
+msgstr "Fö_regående stripp"
+
+#: data/ui/menus.ui:91 data/ui/menus.ui:128
+msgid "_Next Comic"
+msgstr "_Nästa stripp"
+
+#: data/ui/menus.ui:98
+msgid "_First Comic"
+msgstr "_Första strippen"
+
+#: data/ui/menus.ui:103
+msgid "_Last Comic"
+msgstr "_Sista strippen"
+
+#: data/ui/menus.ui:110
+msgid "_Help"
+msgstr "_Hjälp"
+
+#: data/ui/menus.ui:113
+msgid "_About"
+msgstr "_Om"
+
+#: data/ui/properties-dialog.ui:7
+msgid "Comic Properties"
+msgstr "Serieegenskaper"
+
+#: data/ui/properties-dialog.ui:57
+msgid "Title:"
+msgstr "Titel:"
+
+#: data/ui/properties-dialog.ui:71
+msgid "Author:"
+msgstr "Upphovsman:"
+
+#: data/ui/properties-dialog.ui:85
+msgid "Link:"
+msgstr "Länk:"
+
+#: data/ui/properties-dialog.ui:99
+msgid "Date of publication:"
+msgstr "Datum för publicering:"
+
+#: data/ui/properties-dialog.ui:113
+msgid "Language:"
+msgstr "Språk:"
+
+#: data/ui/properties-dialog.ui:127
+msgid "Publication days:"
+msgstr "Publiceringsdagar:"
+
+#: data/ui/window.ui:20
+msgid "Go to the previous comic"
+msgstr "Gå till föregående stripp"
+
+#: data/ui/window.ui:22
+msgid "_Previous"
+msgstr "_Föregående"
+
+#: data/ui/window.ui:33
+msgid "Go to the next comic"
+msgstr "Gå till nästa stripp"
+
+#: data/ui/window.ui:35
+msgid "_Next"
+msgstr "_Nästa"
+
+#: data/ui/window.ui:54
+msgid "Increase the comic size"
+msgstr "Öka seriestrippens storlek"
+
+#: data/ui/window.ui:56
+msgid "Zoom _in"
+msgstr "Zooma _in"
+
+#: data/ui/window.ui:67
+msgid "Decrease the comic size"
+msgstr "Minska seriestrippens storlek"
+
+#: data/ui/window.ui:69
+msgid "Zoom ou_t"
+msgstr "Zooma _ut"
+
+#: data/ui/window.ui:80
+msgid "Use the normal comic size"
+msgstr "Använd den normala seriestorleken"
+
+#: data/ui/window.ui:82
+msgid "N_ormal Size"
+msgstr "N_ormal storlek"
+
+#: src/buoh-add-comic-dialog.c:103
+#, c-format
+msgid "Comics selected: %d"
+msgstr "Valda serier: %d"
+
+#: src/buoh-application.c:69
+msgid "Dump gobject introspection file"
+msgstr "Mata ut gobject-introspektionsfil"
+
+#: src/buoh-application.c:70
+msgid "input.txt,output.xml"
+msgstr "indata.txt,utdata.xml"
+
+#: src/buoh-comic-manager-date.c:63
+msgid "Monday"
+msgstr "Måndag"
+
+#: src/buoh-comic-manager-date.c:64
+msgid "Tuesday"
+msgstr "Tisdag"
+
+#: src/buoh-comic-manager-date.c:65
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: src/buoh-comic-manager-date.c:66
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: src/buoh-comic-manager-date.c:67
+msgid "Friday"
+msgstr "Fredag"
+
+#: src/buoh-comic-manager-date.c:68
+msgid "Saturday"
+msgstr "Lördag"
+
+#: src/buoh-comic-manager-date.c:69
+msgid "Sunday"
+msgstr "Söndag"
+
+#. It's a range of days
+#: src/buoh-comic-manager-date.c:516
+msgid " to "
+msgstr " till "
+
+#: src/buoh-comic-manager-date.c:531
+msgid "Every day"
+msgstr "Varje dag"
+
+#: src/buoh-comic.c:392
+#, c-format
+msgid "Cannot create file “%s”: %s"
+msgstr "Kan inte skapa filen ”%s”: %s"
+
+#: src/buoh-comic.c:400 src/buoh-comic.c:409
+#, c-format
+msgid "Error writing to file “%s”: %s"
+msgstr "Fel vid skrivning till filen ”%s”: %s"
+
+#: src/buoh-view-comic.c:664
+msgid "Error Loading Comic"
+msgstr "Fel vid inläsning av stripp"
+
+#: src/buoh-view.c:93
+msgid "Buoh online comic strips reader"
+msgstr "Buoh nätseriestrippläsare"
+
+#: src/buoh-view.c:95
+msgid ""
+"Welcome to <b>Buoh</b>, the online comics reader for GNOME Desktop.\n"
+"The list on the left panel contains your favorite comic strips to add or "
+"remove comics to the list click on Comic → Add. Just select a comic from the "
+"list, and it will be displayed on the right side. Thanks for using Buoh."
+msgstr ""
+"Välkommen till <b>Buoh</b>, nätseriestrippläsaren för GNOME-skrivbordet.\n"
+"Listan i den vänstra panelen innehåller dina favoritseriestrippar, för att "
+"lägga till eller ta bort från listan klickar du på Serie → Lägg till. Välj "
+"bara en serie från listan så kommer den att visas till höger. Tack för att "
+"du använder Buoh."
+
+#: src/buoh-window.c:417
+msgid "Images"
+msgstr "Bilder"
+
+#: src/buoh-window.c:420
+msgid "Save Comic"
+msgstr "Spara stripp"
+
+#: src/buoh-window.c:423
+msgid "_Cancel"
+msgstr "A_vbryt"
+
+#: src/buoh-window.c:424
+msgid "_Save"
+msgstr "_Spara"
+
+#: src/buoh-window.c:463
+msgid "Unable to save comic"
+msgstr "Kunde inte spara stripp"
+
+#: src/buoh-window.c:694
+msgid "translator-credits"
+msgstr ""
+"Daniel Nylander <po@danielnylander.se>\n"
+"\n"
+"Skicka synpunkter på översättningen\n"
+"till <tp-sv@listor.tp-sv.se>."
+
+#: src/buoh-window.c:817
+msgid "Getting comic…"
+msgstr "Hämtar stripp…"
+
+#~ msgid "buoh"
+#~ msgstr "buoh"
+
+#~ msgid "Add a comic to the comic list"
+#~ msgstr "Lägg till en serie till serielistan"
+
+#~ msgid "Remove this comic from the comic list"
+#~ msgstr "Ta bort den här serien från serielistan"
+
+#~ msgid "Save the current comic with a new filename"
+#~ msgstr "Spara aktuell stripp med ett nytt filnamn"
+
+#~ msgid "Copy the location of this comic to clipboard"
+#~ msgstr "Kopiera platsen för denna stripp till urklipp"
+
+#~ msgid "View the properties of this comic"
+#~ msgstr "Visa egenskaperna för denna stripp"
+
+#~ msgid "Quit application"
+#~ msgstr "Avsluta programmet"
+
+#~ msgid "Go to the first comic"
+#~ msgstr "Gå till den första strippen"
+
+#~ msgid "Go to the last comic"
+#~ msgstr "Gå till den sista strippen"
+
+#~ msgid "_Contents"
+#~ msgstr "_Innehåll"
+
+#~ msgid "Display help for the Buoh online comic reader"
+#~ msgstr "Visa hjälp för Buoh nätseriestrippläsare"
+
+#~ msgid "Display credits for the Buoh online comic reader creators"
+#~ msgstr "Visa tacksida för skaparna av Buoh nätseriestrippläsare"
+
+#~ msgid "Changes the visibility of the toolbar"
+#~ msgstr "Ändrar synligheten för verktygsfältet"
+
+#~ msgid "Changes the visibility of the statusbar"
+#~ msgstr "Ändrar synligheten för statusraden"
+
+#~ msgid "Make the current comic fill the window"
+#~ msgstr "Få aktuell stripp att fylla fönstret"
+
+#~ msgid "Make the current comic fill the window width"
+#~ msgstr "Få aktuell stripp att fylla fönsterbredden"
+
+#~ msgid "_Add..."
+#~ msgstr "_Lägg till..."

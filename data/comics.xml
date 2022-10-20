@@ -1,0 +1,290 @@
+<comic_list>
+  <comic author="Tute" class="date" first="2004-06-04" generic_uri="http://picayune.uclick.com/comics/sptut/%Y/sptut%y%m%d.gif" id="sptut" language="Spanish" title="Tutelandia en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Moco" class="date" first="2004-03-20" generic_uri="http://picayune.uclick.com/comics/sppep/%Y/sppep%y%m%d.gif" id="sppep" language="Spanish" title="Pepe en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Bill Watterson" class="date" first="2004-03-01" generic_uri="http://picayune.uclick.com/comics/spch/%Y/spch%y%m%d.gif" id="spch" language="Spanish" title="Calvin y Hobbes en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Nik" class="date" first="2004-03-22" generic_uri="http://picayune.uclick.com/comics/spgat/%Y/spgat%y%m%d.gif" id="spgat" language="Spanish" title="Gaturro en Español"/>
+  <comic author="World Features, Inc." class="date" first="2004-03-19" generic_uri="http://picayune.uclick.com/comics/cond/%Y/cond%y%m%d.gif" id="cond" language="Spanish" title="Condorito en Español"/>
+  <comic author="Alex Graham" class="date" first="2004-02-23" generic_uri="http://picayune.uclick.com/comics/spfba/%Y/spfba%y%m%d.gif" id="spfba" language="Spanish" title="Fred Basset en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Ian Fleming" class="date" first="2004-05-03" generic_uri="http://picayune.uclick.com/comics/spjb/%Y/spjb%y%m%d.gif" id="spjb" language="Spanish" title="James Bond en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Cathy Guisewite" class="date" first="2004-02-23" generic_uri="http://picayune.uclick.com/comics/spca/%Y/spca%y%m%d.gif" id="spca" language="Spanish" title="Cathy en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Bill Amend" class="date" first="2004-02-16" generic_uri="http://picayune.uclick.com/comics/spft/%Y/spft%y%m%d.gif" id="spft" language="Spanish" title="FoxTrot en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Paul Gilligan" class="date" first="2004-02-23" generic_uri="http://picayune.uclick.com/comics/sppoc/%Y/sppoc%y%m%d.gif" id="sppoc" language="Spanish" title="Pooch Café en Español"/>
+  <comic author="Tom Wilson &amp; Tom II" class="date" first="2004-02-09" generic_uri="http://picayune.uclick.com/comics/spzi/%Y/spzi%y%m%d.gif" id="spzi" language="Spanish" title="Ziggy en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Hector D. Cantu &amp; Carlos Castellanos" class="date" first="2000-11-21" generic_uri="http://picayune.uclick.com/comics/be/%Y/be%y%m%d.gif" id="be" language="Spanish" title="Baldo en Español"/>
+  <comic author="Chip Dunham" class="date" first="2004-02-23" generic_uri="http://picayune.uclick.com/comics/spob/%Y/spob%y%m%d.gif" id="spob" language="Spanish" title="Overboard en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Jim Davis" class="date" first="2000-10-02" generic_uri="http://picayune.uclick.com/comics/gh/%Y/gh%y%m%d.gif" id="gh" language="Spanish" title="Garfield en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Pierre S. De Beaumont" class="date" first="2004-03-20" generic_uri="http://picayune.uclick.com/comics/spmut/%Y/spmut%y%m%d.gif" id="spmut" language="Spanish" title="Mutt &amp; Jeff en Español">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Harley Schwadron" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmntf/%Y/tmntf%y%m%d.gif" id="tmntf" language="English" title="9 to 5">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Brian Basset" class="date" first="1996-08-11" generic_uri="http://picayune.uclick.com/comics/ad/%Y/ad%y%m%d.gif" id="ad" language="English" title="Adam@Home"/>
+  <comic author="Tony Cochran" class="date" first="2002-08-11" generic_uri="http://picayune.uclick.com/comics/cragn/%Y/cragn%y%m%d.gif" id="cragn" language="English" title="Agnes"/>
+  <comic author="Reg Smythe" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crcap/%Y/crcap%y%m%d.gif" id="crcap" language="English" title="Andy Capp"/>
+  <comic author="Fred Wagner" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmani/%Y/tmani%y%m%d.gif" id="tmani" language="English" title="Animal Crackers"/>
+  <comic author="Jay Maeder &amp; Ted Slampyak" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmann/%Y/tmann%y%m%d.gif" id="tmann" language="English" title="Annie"/>
+  <comic author="Peter Guren" class="date" first="2002-08-25" generic_uri="http://picayune.uclick.com/comics/crask/%Y/crask%y%m%d.gif" id="crask" language="English" title="Ask Shagg">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+  </comic>
+  <comic author="Eric &amp; Bill Teitelbaum" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmbot/%Y/tmbot%y%m%d.gif" id="tmbot" language="English" title="Bottom Liners">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Dana Summers" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmbou/%Y/tmbou%y%m%d.gif" id="tmbou" language="English" title="Bound and Gagged"/>
+  <comic author="June Brigman &amp; Mary Schmich" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmbre/%Y/tmbre%y%m%d.gif" id="tmbre" language="English" title="Brenda Starr"/>
+  <comic author="Russell Myers" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmbro/%Y/tmbro%y%m%d.gif" id="tmbro" language="English" title="Broom Hilda"/>
+  <comic author="Tim Rickard" class="date" first="2004-08-01" generic_uri="http://picayune.uclick.com/comics/tmrkt/%Y/tmrkt%y%m%d.gif" id="tmrkt" language="English" title="Brewster Rockit: Space Guy"/>
+  <comic author="Darrin Bell" class="date" first="2004-06-07" generic_uri="http://picayune.uclick.com/comics/cand/%Y/cand%y%m%d.gif" id="cand" language="English" title="Candorville"/>
+  <comic author="Cathy Guisewite" class="date" first="1996-03-11" generic_uri="http://picayune.uclick.com/comics/ca/%Y/ca%y%m%d.gif" id="ca" language="English" title="Cathy"/>
+  <comic author="Hector D. Cantu &amp; Carlos Castellanos" class="date" first="2000-04-17" generic_uri="http://picayune.uclick.com/comics/ba/%Y/ba%y%m%d.gif" id="ba" language="English" title="Baldo"/>
+  <comic author="Jerry Van Amerongen" class="date" first="2002-08-11" generic_uri="http://picayune.uclick.com/comics/crbal/%Y/crbal%y%m%d.gif" id="crbal" language="English" title="Ballard Street"/>
+  <comic author="Johnny Hart" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crbc/%Y/crbc%y%m%d.gif" id="crbc" language="English" title="B.C."/>
+  <comic author="Rob Harrell" class="date" first="2002-04-23" generic_uri="http://picayune.uclick.com/comics/bt/%Y/bt%y%m%d.gif" id="bt" language="English" title="Big Top"/>
+  <comic author="Frank Page" class="date" first="2004-01-01" generic_uri="http://picayune.uclick.com/comics/bob/%Y/bob%y%m%d.gif" id="bob" language="English" title="Bob the Squirrel"/>
+  <comic author="John Kovaleski" class="date" first="2004-06-07" generic_uri="http://picayune.uclick.com/comics/bon/%Y/bon%y%m%d.gif" id="bon" language="English" title="Bo Nanas"/>
+  <comic author="Aaron McGruder" class="date" first="1999-04-19" generic_uri="http://picayune.uclick.com/comics/bo/%Y/bo%y%m%d.gif" id="bo" language="English" title="The Boondocks"/>
+  <comic author="Mike Baldwin" class="date" first="1997-09-01" generic_uri="http://picayune.uclick.com/comics/co/%Y/co%y%m%d.gif" id="co" language="English" title="Cornered"/>
+  <comic author="Charles Boyce" class="date" first="2003-04-07" generic_uri="http://picayune.uclick.com/comics/tmcom/%Y/tmcom%y%m%d.gif" id="tmcom" language="English" title="Compu-toon"/>
+  <comic author="John McPherson" class="date" first="1996-05-27" generic_uri="http://picayune.uclick.com/comics/cl/%Y/cl%y%m%d.gif" id="cl" language="English" title="Close to Home"/>
+  <comic author="Bill Hinds" class="date" first="2001-11-26" generic_uri="http://picayune.uclick.com/comics/cle/%Y/cle%y%m%d.gif" id="cle" language="English" title="Cleats"/>
+  <comic author="Karen Montague-Reyes" class="date" first="2004-05-03" generic_uri="http://picayune.uclick.com/comics/cbw/%Y/cbw%y%m%d.gif" id="cbw" language="English" title="Clear Blue Water"/>
+  <comic author="Garry Trudeau" class="date" first="1970-10-26" generic_uri="http://picayune.uclick.com/comics/db/%Y/db%y%m%d.gif" id="db" language="English" title="Doonesbury"/>
+  <comic author="Steve Sack &amp; Craig Macintosh" class="date" first="2001-04-29" generic_uri="http://picayune.uclick.com/comics/tmdoo/%Y/tmdoo%y%m%d.gif" id="tmdoo" language="English" title="Doodles">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+  </comic>
+  <comic author="Dick Locher &amp; Michael Killian" class="date" first="2001-04-18" generic_uri="http://picayune.uclick.com/comics/tmdic/%Y/tmdic%y%m%d.gif" id="tmdic" language="English" title="Dick Tracy"/>
+  <comic author="Tim Eagan" class="date" first="2002-10-31" generic_uri="http://picayune.uclick.com/comics/deep/%Y/deep%y%m%d.gif" id="deep" language="English" title="Deep Cover">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Rich Tennant" class="date" first="2005-02-27" generic_uri="http://picayune.uclick.com/comics/fw/%Y/fw%y%m%d.gif" id="fw" language="English" title="The 5th Wave">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+  </comic>
+  <comic author="Glenn McCoy" class="date" first="1996-08-12" generic_uri="http://picayune.uclick.com/comics/dp/%Y/dp%y%m%d.gif" id="dp" language="English" title="The Duplex"/>
+  <comic author="John Gibel &amp; Jenny Campbell" class="date" first="2002-08-11" generic_uri="http://picayune.uclick.com/comics/crflo/%Y/crflo%y%m%d.gif" id="crflo" language="English" title="Flo and Friends"/>
+  <comic author="Lynn Johnston" class="date" first="2000-07-02" generic_uri="http://picayune.uclick.com/comics/fb/%Y/fb%y%m%d.gif" id="fb" language="English" title="For Better or For Worse"/>
+  <comic author="Peter Waldner" class="date" first="2002-08-11" generic_uri="http://picayune.uclick.com/comics/crfd/%Y/crfd%y%m%d.gif" id="crfd" language="English" title="Flight Deck"/>
+  <comic author="Bill Amend" class="date" first="1996-03-11" generic_uri="http://picayune.uclick.com/comics/ft/%Y/ft%y%m%d.gif" id="ft" language="English" title="FoxTrot">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Alex Graham" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmfba/%Y/tmfba%y%m%d.gif" id="tmfba" language="English" title="Fred Basset"/>
+  <comic author="Jim Scancarelli" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmgas/%Y/tmgas%y%m%d.gif" id="tmgas" language="English" title="Gasoline Alley"/>
+  <comic author="Jim Davis" class="date" first="1978-06-19" generic_uri="http://picayune.uclick.com/comics/ga/%Y/ga%y%m%d.gif" id="ga" language="English" title="Garfield"/>
+  <comic author="J.C. Duffy" class="date" first="1996-07-14" generic_uri="http://picayune.uclick.com/comics/fu/%Y/fu%y%m%d.gif" id="fu" language="English" title="The Fusco Brothers"/>
+  <comic author="Phil Frank &amp; Joe Troise" class="date" first="2004-12-06" generic_uri="http://picayune.uclick.com/comics/eld/%Y/eld%y%m%d.gif" id="eld" language="English" title="Elderberries"/>
+  <comic author="Mel Henze" class="date" first="2003-10-13" generic_uri="http://picayune.uclick.com/comics/haa/%Y/haa%y%m%d.gif" id="haa" language="English" title="Hubert and Abby">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Steve Watkins" class="date" first="2003-02-07" generic_uri="http://picayune.uclick.com/comics/tmhou/%Y/tmhou%y%m%d.gif" id="tmhou" language="English" title="Housebroken"/>
+  <comic author="Stephen Bentley" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crher/%Y/crher%y%m%d.gif" id="crher" language="English" title="Herb and Jamaal"/>
+  <comic author="Peter Zale" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmhel/%Y/tmhel%y%m%d.gif" id="tmhel" language="English" title="Helen, Sweetheart of the Internet"/>
+  <comic author="George Gately" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crhea/%Y/crhea%y%m%d.gif" id="crhea" language="English" title="Heathcliff"/>
+  <comic author="Mark Tatulli" class="date" first="1999-01-01" generic_uri="http://picayune.uclick.com/comics/hc/%Y/hc%y%m%d.gif" id="hc" language="English" title="Heart of the City"/>
+  <comic author="Neal Rubin &amp; Frank McLaughlin" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmgil/%Y/tmgil%y%m%d.gif" id="tmgil" language="English" title="Gil Thorp">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Doug Marlette" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmkud/%Y/tmkud%y%m%d.gif" id="tmkud" language="English" title="Kudzu"/>
+  <comic author="Lalo Alcaraz" class="date" first="2002-11-25" generic_uri="http://picayune.uclick.com/comics/lc/%Y/lc%y%m%d.gif" id="lc" language="English" title="La Cucaracha"/>
+  <comic author="Frank Cho" class="date" first="2002-08-11" generic_uri="http://picayune.uclick.com/comics/crlib/%Y/crlib%y%m%d.gif" id="crlib" language="English" title="Liberty Meadows"/>
+  <comic author="Steve Moore" class="date" first="1996-08-12" generic_uri="http://picayune.uclick.com/comics/bl/%Y/bl%y%m%d.gif" id="bl" language="English" title="In the Bleachers"/>
+  <comic author="Matt Bors" class="date" first="2004-11-01" generic_uri="http://picayune.uclick.com/comics/ibox/%Y/ibox%y%m%d.gif" id="ibox" language="English" title="Idiot Box">
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Dave Blazek" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmloo/%Y/tmloo%y%m%d.gif" id="tmloo" language="English" title="Loose Parts"/>
+  <comic author="Dan Thompson" class="date" first="2003-07-30" generic_uri="http://picayune.uclick.com/comics/lost/%Y/lost%y%m%d.gif" id="lost" language="English" title="Lost Sheep"/>
+  <comic author="Mark Pett" class="date" first="2003-04-21" generic_uri="http://picayune.uclick.com/comics/luc/%Y/luc%y%m%d.gif" id="luc" language="English" title="Lucky Cow"/>
+  <comic author="Ralph Dunagin &amp; Dana Summers" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmmid/%Y/tmmid%y%m%d.gif" id="tmmid" language="English" title="The Middletons"/>
+  <comic author="Wiley Miller" class="date" first="2000-01-31" generic_uri="http://picayune.uclick.com/comics/nq/%Y/nq%y%m%d.gif" id="nq" language="English" title="Non Sequitur"/>
+  <comic author="John Allen" class="date" first="2003-06-02" generic_uri="http://picayune.uclick.com/comics/cpnst/%Y/cpnst%y%m%d.gif" id="cpnst" language="English" title="Nest Heads"/>
+  <comic author="Russ Wallace" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crns/%Y/crns%y%m%d.gif" id="crns" language="English" title="Natural Selection">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Mell Lazarus" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crmom/%Y/crmom%y%m%d.gif" id="crmom" language="English" title="Momma"/>
+  <comic author="Chip Dunham" class="date" first="1996-07-01" generic_uri="http://picayune.uclick.com/comics/ob/%Y/ob%y%m%d.gif" id="ob" language="English" title="Overboard"/>
+  <comic author="Brian Crane" class="date" first="2003-02-03" generic_uri="http://picayune.uclick.com/comics/wppic/%Y/wppic%y%m%d.gif" id="wppic" language="English" title="Pickles"/>
+  <comic author="Matt Janz" class="date" first="2003-02-03" generic_uri="http://picayune.uclick.com/comics/wpgen/%Y/wpgen%y%m%d.gif" id="wpgen" language="English" title="Out of the Gene Pool"/>
+  <comic author="Adrian Raeside" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crtoc/%Y/crtoc%y%m%d.gif" id="crtoc" language="English" title="The Other Coast"/>
+  <comic author="Rick Detorie" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crobh/%Y/crobh%y%m%d.gif" id="crobh" language="English" title="One Big Happy"/>
+  <comic author="Paul Gilligan" class="date" first="2003-05-04" generic_uri="http://picayune.uclick.com/comics/poc/%Y/poc%y%m%d.gif" id="poc" language="English" title="Pooch Café"/>
+  <comic author="Steve McGarry" class="date" first="2003-08-24" generic_uri="http://picayune.uclick.com/comics/pop/%Y/pop%y%m%d.gif" id="pop" language="English" title="Pop Culture"/>
+  <comic author="Allison Barrows" class="date" first="2001-04-23" generic_uri="http://picayune.uclick.com/comics/pr/%Y/pr%y%m%d.gif" id="pr" language="English" title="Preteena"/>
+  <comic author="Scott Stantis" class="date" first="2004-07-11" generic_uri="http://picayune.uclick.com/comics/prc/%Y/prc%y%m%d.gif" id="prc" language="English" title="Prickly City"/>
+  <comic author="Buddy Hickerson" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmqui/%Y/tmqui%y%m%d.gif" id="tmqui" language="English" title="The Quigmans">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Gary Wise &amp; Lance Aldrich" class="date" first="1996-08-12" generic_uri="http://picayune.uclick.com/comics/rl/%Y/rl%y%m%d.gif" id="rl" language="English" title="Real Life Adventures"/>
+  <comic author="Gary Brookins" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmplu/%Y/tmplu%y%m%d.gif" id="tmplu" language="English" title="Pluggers"/>
+  <comic author="Brian Basset" class="date" first="2003-02-03" generic_uri="http://picayune.uclick.com/comics/wpred/%Y/wpred%y%m%d.gif" id="wpred" language="English" title="Red and Rover"/>
+  <comic author="Leigh Rubin" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crrub/%Y/crrub%y%m%d.gif" id="crrub" language="English" title="Rubes"/>
+  <comic author="Chris Cassatt &amp; Gary Brookins" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmsho/%Y/tmsho%y%m%d.gif" id="tmsho" language="English" title="Shoe"/>
+  <comic author="Jen Sorensen" class="date" first="2002-07-22" generic_uri="http://picayune.uclick.com/comics/slow/%Y/slow%y%m%d.gif" id="slow" language="English" title="Slowpoke">
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Dave Coverly" class="date" first="2002-08-11" generic_uri="http://picayune.uclick.com/comics/crspe/%Y/crspe%y%m%d.gif" id="crspe" language="English" title="Speed Bump"/>
+  <comic author="Carl Moore" class="date" first="2004-09-13" generic_uri="http://picayune.uclick.com/comics/crsou/%Y/crsou%y%m%d.gif" id="crsou" language="English" title="State of the Union">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Jan Eliot" class="date" first="1996-06-01" generic_uri="http://picayune.uclick.com/comics/ss/%Y/ss%y%m%d.gif" id="ss" language="English" title="Stone Soup"/>
+  <comic author="John Deering" class="date" first="2002-09-08" generic_uri="http://picayune.uclick.com/comics/crstr/%Y/crstr%y%m%d.gif" id="crstr" language="English" title="Strange Brew"/>
+  <comic author="Nicole Hollander" class="date" first="2001-04-25" generic_uri="http://picayune.uclick.com/comics/tmsyl/%Y/tmsyl%y%m%d.gif" id="tmsyl" language="English" title="Sylvia">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Jeff Millar &amp; Bill Hinds" class="date" first="1996-09-08" generic_uri="http://picayune.uclick.com/comics/tm/%Y/tm%y%m%d.gif" id="tm" language="English" title="Tank McNamara"/>
+  <comic author="Keith Knight" class="date" first="2004-04-05" generic_uri="http://picayune.uclick.com/comics/think/%Y/think%y%m%d.gif" id="think" language="English" title="(th)ink">
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Ruben Bolling" class="date" first="1999-06-19" generic_uri="http://picayune.uclick.com/comics/td/%Y/td%y%m%d.gif" id="td" language="English" title="Tom the Dancing Bug">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Ken Cursoe" class="date" first="2003-04-03" generic_uri="http://picayune.uclick.com/comics/tiny/%Y/tiny%y%m%d.gif" id="tiny" language="English" title="Tiny Sepuku">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Brad J. Guigar" class="date" first="2003-12-12" generic_uri="http://www.greystoneinn.net/comics/%Y%m%d.gif" id="greystoneinn" language="English" title="Greystone inn">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="John Deering" class="date" first="2003-05-18" generic_uri="http://picayune.uclick.com/comics/crzhi/%Y/crzhi%y%m%d.gif" id="crzhi" language="English" title="Zack Hill"/>
+  <comic author="Tom Wilson &amp; Tom II" class="date" first="1996-06-01" generic_uri="http://picayune.uclick.com/comics/zi/%Y/zi%y%m%d.gif" id="zi" language="English" title="Ziggy"/>
+  <comic author="Robert Koch" class="date" first="2004-06-07" generic_uri="https://d1fy23birokowe.cloudfront.net/boredandevil/comics/%Y-%m-%d.gif" id="boredandevil" language="English" title="Bored and evil">
+    <restrict>2</restrict>
+    <restrict>4</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Chris Crosby" class="date" first="2001-06-05" generic_uri="http://superosity.keenspot.com/comics/sup%Y%m%d.gif" id="superosity" language="English" title="Superosity"/>
+  <comic author="Chris Crosby" class="date" first="2004-03-08" generic_uri="http://sorethumbs.keenspot.com/comics/st%Y%m%d.gif" id="sorethumbs" language="English" title="Sore Thumbs">
+    <restrict>2</restrict>
+    <restrict>4</restrict>
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Brant Parker &amp; Johnny Hart" class="date" first="2002-08-12" generic_uri="http://picayune.uclick.com/comics/crwiz/%Y/crwiz%y%m%d.gif" id="crwiz" language="English" title="Wizard of Id"/>
+  <comic author="Bob Roberds" class="date" first="2000-05-26" generic_uri="http://www.soaprope.com/comics/soar%Y%m%d.gif" id="soar" language="English" title="Soap on a Rope">
+    <restrict>6</restrict>
+    <restrict>7</restrict>
+  </comic>
+  <comic author="James Kemsley" class="date" first="2005-05-30" generic_uri="http://picayune.uclick.com/comics/gin/%Y/gin%y%m%d.gif" id="gin" language="English" title="Ginger Meggs"/>
+  <comic author="Scott Kurtx" class="date" first="1998-05-04" generic_uri="http://s3-us-west-2.amazonaws.com/pvponlinenew/img/comic/%Y/%m/pvp%Y%m%d.gif" id="pvponline" language="English" title="PvP"/>
+  <comic author="Tatsuya Ishida" class="date" first="2000-01-17" generic_uri="https://www.sinfest.net/btphp/comics/%Y-%m-%d.gif" id="sinfest" language="English" title="Sinfest"/>
+  <comic author="Isabella Bannerman" class="date" first="2004-02-29" generic_uri="http://cserver.king-online.com/content/6Chix?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=8sdef0&amp;size=hires" id="six-chix" language="English" title="Six Chix"/>
+  <comic author="Stan Lee, Larry Lieber &amp; Alex Saviuk" class="date" first="2005-01-01" generic_uri="http://cserver.king-online.com/content/Spiderman?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=hkw769&amp;size=hires" id="spiderman" language="English" title="The amazing Spiderman"/>
+  <comic author="Dean Young &amp; Denis Lebrun" class="date" first="2005-01-01" generic_uri="http://cserver.king-online.com/content/Blondie?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=lby49o&amp;size=hires" id="blondie" language="English" title="Blondie"/>
+  <comic author="Mike Peters" class="date" first="2003-01-27" generic_uri="http://cserver.king-online.com/content/Mgoose?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=bc59ut&amp;size=hires" id="mothergoose" language="English" title="Mother Goose &amp; Grimm"/>
+  <comic author="Bil Keane" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Family_Circus?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=wy2j37&amp;size=hires" id="famcircus" language="English" title="The family Circus"/>
+  <comic author="Hank Ketcham, Marcus Hamilton &amp; Ron Ferdinand" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Dennis_The_Menace?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=sytlm5&amp;size=hires" id="dennis" language="English" title="Dennis the menace"/>
+  <comic author="Bill Griffith" class="date" first="2004-02-01" generic_uri="http://cserver.king-online.com/content/Zippy_the_Pinhead?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=jqzv3p&amp;size=hires" id="zippy" language="English" title="Zippy the pinhead"/>
+  <comic author="Francesco Marciuliano &amp; Craig Macintosh" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Sally_Forth?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=n5cec9&amp;size=hires" id="sallyforth" language="English" title="Sally Forth"/>
+  <comic author="Mort Walker" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Beetle_Bailey?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=vn6r91&amp;size=hires" id="beetleb" language="English" title="Beetle Bailey"/>
+  <comic author="Rick Kirkman &amp; Jerry Scott" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Baby_Blues?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=1bml3h&amp;size=hires" id="bblues" language="English" title="Baby Blues"/>
+  <comic author="Todd Clark &amp; Scott Nickel" class="date" first="2005-04-04" generic_uri="http://cserver.king-online.com/content/Triple?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=lzj7i5&amp;size=hires" id="tripletake" language="English" title="Triple Take"/>
+  <comic author="Kieran Meehan" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Lawyer?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=d5k3bs&amp;size=hires" id="lawyerdoctorcop" language="English" title="A Lawyer, A Doctor &amp; A Cop"/>
+  <comic author="Jim Toomey" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Shermans_Lagoon?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=rae6q&amp;size=hires" id="sherman" language="English" title="Sherman's Lagoon"/>
+  <comic author="Tom Armstrong" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Marvin?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=pjc2y9&amp;size=hires" id="marvin" language="English" title="Marvin"/>
+  <comic author="Bruce Tinsley" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Mallard_Fillmore?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=r2lw1q&amp;size=hires" id="mallard" language="English" title="Mallard Fillmore"/>
+  <comic author="Woody Wilson &amp; Graham Nolan" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Rex_Morgan?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=kg5dq2&amp;size=hires" id="rexmorgan" language="English" title="Rex Morgan M.D."/>
+  <comic author="Chris Browne" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Hagar_The_Horrible?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=ukcle6&amp;size=hires" id="hagar" language="English" title="Hagar the horrible"/>
+  <comic author="Dan Piraro" class="date" first="2004-03-14" generic_uri="http://cserver.king-online.com/content/Bizarro?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=625tk9&amp;size=hires" id="bizarro" language="English" title="Bizarro"/>
+  <comic author="Tom Batiuk" class="date" first="2004-03-01" generic_uri="http://cserver.king-online.com/content/Funky_Winkerbean?date=%Y-%m-%d&amp;referer=http://www.dailyink.com&amp;uid=xvkv6o&amp;token=xk8dch&amp;size=hires" id="funky" language="English" title="Funky Winkerbean"/>
+  <comic author="Lem" class="date" first="2004-08-23" generic_uri="http://www.frozenreality.co.uk/comic/bunny/strips/%d%m%y.gif" id="bunny" language="English" title="Bunny"/>
+  <comic author="Joscha Sauer" class="date" first="2002-06-07" generic_uri="http://www.nichtlustig.de/comics/full/%y%m%d.jpg" id="nichtlustig" language="German" title="Nichtlustig"/>
+  <comic author="Howard Tayler" class="date" first="2000-06-12" generic_uri="http://www.schlockmercenary.com/comics/schlock%Y%m%d.png" id="schlock" language="English" title="Schlock mercenary"/>
+  <comic author="Bill Watterson" class="date" first="1985-11-18" generic_uri="http://picayune.uclick.com/comics/ch/%Y/ch%y%m%d.gif" id="ch" language="English" offset="4018" title="Calvin and Hobbes"/>
+  <comic author="Mauricio" class="date" first="2006-05-29" generic_uri="http://picayune.uclick.com/comics/ron/%Y/ron%y%m%d.gif" id="ron" language="English" title="Ronaldinho Gaucho"/>
+  <comic author="Carla Ventresca &amp; Herny Beckett" class="date" first="2006-04-03" generic_uri="http://picayune.uclick.com/comics/crocd/%Y/crocd%y%m%d.gif" id="crocd" language="English" title="On a claire day"/>
+  <comic author="Mark Tatulli" class="date" first="2006-05-15" generic_uri="http://picayune.uclick.com/comics/lio/%Y/lio%y%m%d.gif" id="lio" language="English" title="Lio"/>
+  <comic author="Steve McGarry" class="date" first="2005-08-14" generic_uri="http://picayune.uclick.com/comics/biov/%Y/biov%y%m%d.gif" id="biov" language="English" title="Biographic">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+  </comic>
+  <comic author="Steve McGarry" class="date" first="2005-05-16" generic_uri="http://picayune.uclick.com/comics/bwv/%Y/bwv%y%m%d.gif" id="bwv" language="English" title="Brainwaves">
+    <restrict>7</restrict>
+  </comic>
+  <comic author="Jennifer M. Babcock" class="date" first="2003-11-11" generic_uri="http://picayune.uclick.com/comics/clv/%Y/clv%y%m%d.gif" id="clv" language="English" title="C'est la vie"/>
+  <comic author="Brian Anderson" class="date" first="2005-11-14" generic_uri="http://picayune.uclick.com/comics/crdog/%Y/crdog%y%m%d.gif" id="crdog" language="English" title="Dog eat Doug"/>
+  <comic author="Julie Larson" class="date" first="2005-01-02" generic_uri="http://picayune.uclick.com/comics/crdin/%Y/crdin%y%m%d.gif" id="crdin" language="English" title="The dinnete set"/>
+  <comic author="Glenn &amp; Gay McCoy" class="date" first="2005-05-09" generic_uri="http://picayune.uclick.com/comics/fmc/%Y/fmc%y%m%d.gif" id="fmf" language="English" title="The Flying McCoys"/>
+  <comic author="Phil Dunlap" class="date" first="2005-11-07" generic_uri="http://picayune.uclick.com/comics/ink/%Y/ink%y%m%d.gif" id="ink" language="English" title="Ink Pen"/>
+  <comic author="John Forgetta &amp; L.A. Rose" class="date" first="2005-01-02" generic_uri="http://picayune.uclick.com/comics/crlil/%Y/crlil%y%m%d.gif" id="crlil" language="English" title="The meaning of Lila"/>
+  <comic author="Piper &amp; Lee" class="date" first="2006-05-21" generic_uri="http://picayune.uclick.com/comics/trev/%Y/trev%y%m%d.gif" id="trev" language="English" title="Trevor"/>
+  <comic author="Cory Thomas" class="date" first="2006-03-27" generic_uri="http://picayune.uclick.com/comics/wpwyh/%Y/wpwyh%y%m%d.gif" id="wpwyh" language="English" title="Watch your head"/>
+  <comic author="Morrie Turner" class="date" first="2005-01-02" generic_uri="http://picayune.uclick.com/comics/crwee/%Y/crwee%y%m%d.gif" id="crwee" language="English" title="Wee Pals"/>
+  <comic author="Charlos Gary" class="date" first="2005-01-02" generic_uri="http://picayune.uclick.com/comics/crwio/%Y/crwio%y%m%d.gif" id="crwio" language="English" title="Work It Out"/>
+  <comic author="Eric and Bill Teitelbaum" class="date" first="2005-05-29" generic_uri="http://picayune.uclick.com/comics/tmpnk/%Y/tmpnk%y%m%d.gif" id="tmpnk" language="English" title="The Pink Panther">
+    <restrict>1</restrict>
+    <restrict>2</restrict>
+    <restrict>3</restrict>
+    <restrict>4</restrict>
+    <restrict>5</restrict>
+    <restrict>6</restrict>
+  </comic>
+  <comic author="" class="date" first="2003-05-30" generic_uri="http://picayune.uclick.com/comics/cpthk/%Y/cpthk%y%m%d.gif" id="cpthk" language="English" title="Through Thick and Thin">
+    <restrict>7</restrict>
+  </comic>
+</comic_list>

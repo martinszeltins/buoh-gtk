@@ -1,0 +1,395 @@
+# Czech translation for buoh.
+# Copyright (C) 2010 buoh's COPYRIGHT HOLDER
+# This file is distributed under the same license as the buoh package.
+# Marek Černocký <marek@manet.cz>, 2010, 2018, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: buoh master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/buoh/issues\n"
+"POT-Creation-Date: 2019-01-26 10:55+0000\n"
+"PO-Revision-Date: 2019-01-29 13:56+0100\n"
+"Last-Translator: Marek Černocký <marek@manet.cz>\n"
+"Language-Team: čeština <gnome-cs-list@gnome.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#: data/org.gnome.buoh.appdata.xml.in:6 data/org.gnome.buoh.desktop.in:3
+#: data/ui/window.ui:8
+msgid "Buoh"
+msgstr "Buoh"
+
+#: data/org.gnome.buoh.appdata.xml.in:7 src/buoh-window.c:741
+msgid "Online comic strips reader"
+msgstr "Čtečka on-line komiksových stripů"
+
+#: data/org.gnome.buoh.appdata.xml.in:9
+msgid ""
+"Buoh is an application for viewing online comic strips and webcomics, "
+"designed to look and work well under the GNOME desktop. Select your favorite "
+"comic from a list of more than 130 comics and read them in a simple, clean, "
+"and easy to use interface. Additionally, you can browse through the comic "
+"strip archives or save a comic to disk."
+msgstr ""
+"Buoh je aplikace pro zobrazování on-line komiksových stripů a webových "
+"komiksů. Je navržená, aby skvěle vypadala a fungovala v uživatelském "
+"prostředí GNOME. Svůj oblíbený komiks si můžete vybrat ze seznamu více než "
+"130 komiksů a číst si jej jednoduše a přehledně a s pomocí snadného "
+"ovládání. Navíc si můžete procházet archivy komiksových stripů a ukládat si "
+"komiksy na disk."
+
+#: data/org.gnome.buoh.appdata.xml.in:135
+msgid "General view of Buoh"
+msgstr "Celkové zobrazení v aplikaci Buoh"
+
+#: data/org.gnome.buoh.appdata.xml.in:139
+msgid "First execution of Buoh"
+msgstr "První spuštění aplikace Buoh"
+
+#: data/org.gnome.buoh.appdata.xml.in:143
+msgid "Add comic dialog"
+msgstr "Dialogové okno pro přidání komiksu"
+
+#: data/org.gnome.buoh.appdata.xml.in:147
+msgid "Comic properties dialog"
+msgstr "Dialogové okno s vlastnostmi komiksu"
+
+#: data/org.gnome.buoh.desktop.in:4
+msgid "Comics Reader"
+msgstr "Čtečka komiksů"
+
+#: data/org.gnome.buoh.desktop.in:5
+msgid "Read your favorite comic strips"
+msgstr "Čtěte si své oblíbené komiksové stripy"
+
+#. Translators: These are desktop search terms. Do not translate semicolons, end line with a semicolon.
+#: data/org.gnome.buoh.desktop.in:7
+msgid "comics;webcomics;comic strips;"
+msgstr "comics;komiks;vtipy;webcomics;webový komiks;strip;"
+
+#. Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+#: data/org.gnome.buoh.desktop.in:10
+msgid "buoh"
+msgstr "buoh"
+
+#: data/org.gnome.buoh.gschema.xml:6
+msgid "Show toolbar by default"
+msgstr "Zobrazit ve výchozím stavu panel nástrojů"
+
+#: data/org.gnome.buoh.gschema.xml:7
+msgid ""
+"Toolbar is the top bar that contains navigation and zoom controls. Two "
+"boolean options, true makes toolbar visible by default while false makes "
+"toolbar not visible by default."
+msgstr ""
+"Panel nástrojů je horní panel, který obsahuje ovládání navigace a "
+"přiblížení. Můžete volit mezi dvěma stavy, zapnuto způsobí zobrazení "
+"stavového panelu ve výchozím stavu, zatímco vypnuto jej ve výchozím stavu "
+"skryje."
+
+#: data/org.gnome.buoh.gschema.xml:11
+msgid "Show statusbar by default"
+msgstr "Zobrazit ve výchozím stavu stavový panel"
+
+#: data/org.gnome.buoh.gschema.xml:12
+msgid ""
+"Statusbar is the bottom bar that contains help and status messages. Two "
+"boolean options, true makes statusbar visible by default while false makes "
+"statusbar not visible by default."
+msgstr ""
+"Stavový panel je dolní panel, který obsahuje nápovědu a informace o stavu. "
+"Můžete volit mezi dvěma stavy, zapnuto způsobí zobrazení stavového panelu ve "
+"výchozím stavu, zatímco vypnuto jej ve výchozím stavu skryje."
+
+#: data/org.gnome.buoh.gschema.xml:16
+msgid "Select viewer zoom mode"
+msgstr "Vybrat režim přiblížení prohlížeče"
+
+#: data/org.gnome.buoh.gschema.xml:17
+msgid ""
+"There are two zoom modes available, 'best-fit' makes the current comic fill "
+"the window, 'fit-width' makes the current comic fill the window width."
+msgstr ""
+"Jsou k dispozici dva režimy přiblížení, „best-fit“ způsobí vyplnění celého "
+"okna komiksem, „fit-width“ vyplní okno komiksem na celou šířku"
+
+#: data/ui/add-comic-dialog.ui:7
+msgid "Add Comic"
+msgstr "Přidat komiks"
+
+#: data/ui/add-comic-dialog.ui:22 data/ui/properties-dialog.ui:20
+msgid "_Close"
+msgstr "_Zavřít"
+
+#: data/ui/add-comic-dialog.ui:80 data/ui/comic-list.ui:23
+msgid "Title"
+msgstr "Název"
+
+#: data/ui/add-comic-dialog.ui:95
+msgid "Author"
+msgstr "Autor"
+
+#: data/ui/add-comic-dialog.ui:129
+msgid "Select Comics"
+msgstr "Vybrat komiks"
+
+#: data/ui/menus.ui:5
+msgid "_Comic"
+msgstr "_Komiks"
+
+#: data/ui/menus.ui:8 data/ui/menus.ui:169
+msgid "_Add…"
+msgstr "Přid_at…"
+
+#: data/ui/menus.ui:13 data/ui/menus.ui:174
+msgid "_Remove"
+msgstr "Odeb_rat"
+
+#: data/ui/menus.ui:21 data/ui/menus.ui:153
+msgid "_Save a Copy…"
+msgstr "_Uložit kopii…"
+
+#: data/ui/menus.ui:24 data/ui/menus.ui:156
+msgid "_Copy Location"
+msgstr "_Kopírovat umístění"
+
+#: data/ui/menus.ui:30 data/ui/menus.ui:162
+msgid "_Properties…"
+msgstr "_Vlastnosti…"
+
+#: data/ui/menus.ui:35
+msgid "_Quit"
+msgstr "U_končit"
+
+#: data/ui/menus.ui:42
+msgid "_View"
+msgstr "_Zobrazit"
+
+#: data/ui/menus.ui:45
+msgid "_Toolbar"
+msgstr "Panel nás_trojů"
+
+#: data/ui/menus.ui:49
+msgid "St_atusbar"
+msgstr "St_avový panel"
+
+#: data/ui/menus.ui:55 data/ui/menus.ui:135
+msgid "Zoom _In"
+msgstr "Př_iblížit"
+
+#: data/ui/menus.ui:60 data/ui/menus.ui:140
+msgid "Zoom _Out"
+msgstr "_Oddálit"
+
+#: data/ui/menus.ui:67 data/ui/menus.ui:147
+msgid "_Normal Size"
+msgstr "_Normální velikost"
+
+#: data/ui/menus.ui:73
+msgid "_Best Fit"
+msgstr "_Nejlepší přizpůsobení"
+
+#: data/ui/menus.ui:78
+msgid "Fit Comic _Width"
+msgstr "Přizpůsobení šířky"
+
+#: data/ui/menus.ui:83
+msgid "_Go"
+msgstr "_Přejít"
+
+#: data/ui/menus.ui:86 data/ui/menus.ui:123
+msgid "_Previous Comic"
+msgstr "_Předchozí komiks"
+
+#: data/ui/menus.ui:91 data/ui/menus.ui:128
+msgid "_Next Comic"
+msgstr "_Následující komiks"
+
+#: data/ui/menus.ui:98
+msgid "_First Comic"
+msgstr "P_rvní komiks"
+
+#: data/ui/menus.ui:103
+msgid "_Last Comic"
+msgstr "Pos_lední komiks"
+
+#: data/ui/menus.ui:110
+msgid "_Help"
+msgstr "_Nápověda"
+
+#: data/ui/menus.ui:113
+msgid "_About"
+msgstr "O _aplikaci"
+
+#: data/ui/properties-dialog.ui:7
+msgid "Comic Properties"
+msgstr "Vlastnosti komiksu"
+
+#: data/ui/properties-dialog.ui:57
+msgid "Title:"
+msgstr "Název:"
+
+#: data/ui/properties-dialog.ui:71
+msgid "Author:"
+msgstr "Autor:"
+
+#: data/ui/properties-dialog.ui:85
+msgid "Link:"
+msgstr "Odkaz:"
+
+#: data/ui/properties-dialog.ui:99
+msgid "Date of publication:"
+msgstr "Datum vydání:"
+
+#: data/ui/properties-dialog.ui:113
+msgid "Language:"
+msgstr "Jazyk:"
+
+#: data/ui/properties-dialog.ui:127
+msgid "Publication days:"
+msgstr "Dny vydávání:"
+
+#: data/ui/window.ui:20
+msgid "Go to the previous comic"
+msgstr "Přejít na předchozí komiks"
+
+#: data/ui/window.ui:22
+msgid "_Previous"
+msgstr "_Předchozí"
+
+#: data/ui/window.ui:33
+msgid "Go to the next comic"
+msgstr "Přejít na následující komiks"
+
+#: data/ui/window.ui:35
+msgid "_Next"
+msgstr "_Následující"
+
+#: data/ui/window.ui:54
+msgid "Increase the comic size"
+msgstr "Zvětšit velikost komiksu"
+
+#: data/ui/window.ui:56
+msgid "Zoom _in"
+msgstr "Př_iblížit"
+
+#: data/ui/window.ui:67
+msgid "Decrease the comic size"
+msgstr "Zmenšit velikost komiksu"
+
+#: data/ui/window.ui:69
+msgid "Zoom ou_t"
+msgstr "_Oddálit"
+
+#: data/ui/window.ui:80
+msgid "Use the normal comic size"
+msgstr "Použít normální velikost komiksu"
+
+#: data/ui/window.ui:82
+msgid "N_ormal Size"
+msgstr "_Normální velikost"
+
+#: src/buoh-add-comic-dialog.c:103
+#, c-format
+msgid "Comics selected: %d"
+msgstr "Vybráno komiksů: %d"
+
+#: src/buoh-comic-manager-date.c:57
+msgid "Monday"
+msgstr "Pondělí"
+
+#: src/buoh-comic-manager-date.c:58
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: src/buoh-comic-manager-date.c:59
+msgid "Wednesday"
+msgstr "Středa"
+
+#: src/buoh-comic-manager-date.c:60
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: src/buoh-comic-manager-date.c:61
+msgid "Friday"
+msgstr "Pátek"
+
+#: src/buoh-comic-manager-date.c:62
+msgid "Saturday"
+msgstr "Sobota"
+
+#: src/buoh-comic-manager-date.c:63
+msgid "Sunday"
+msgstr "Neděle"
+
+#. It's a range of days
+#: src/buoh-comic-manager-date.c:510
+msgid " to "
+msgstr " do "
+
+#: src/buoh-comic-manager-date.c:525
+msgid "Every day"
+msgstr "Každý den"
+
+#: src/buoh-comic.c:412
+#, c-format
+msgid "Cannot create file “%s”: %s"
+msgstr "Nezdařilo se vytvořit soubor „%s“: %s"
+
+#: src/buoh-comic.c:420 src/buoh-comic.c:429
+#, c-format
+msgid "Error writing to file “%s”: %s"
+msgstr "Chyba při zápisu do souboru „%s“: %s"
+
+#: src/buoh-view-comic.c:626
+msgid "Error Loading Comic"
+msgstr "Chyba při načítání komiksu"
+
+#: src/buoh-view.c:93
+msgid "Buoh online comic strips reader"
+msgstr "Čtečka on-line komiksových stripů Buoh"
+
+#: src/buoh-view.c:95
+msgid ""
+"Welcome to <b>Buoh</b>, the online comics reader for GNOME Desktop.\n"
+"The list on the left panel contains your favorite comic strips to add or "
+"remove comics to the list click on Comic → Add. Just select a comic from the "
+"list, and it will be displayed on the right side. Thanks for using Buoh."
+msgstr ""
+"Vítejte v aplikaci <b>Buoh</b>, čtečce on-line komiksů pro pracovní "
+"prostředí GNOME. Seznam v levém panelu obsahuje vaše oblíbené komiksové "
+"stripy, další komiks můžete přidat pomocí Komiks → Přidat. Po vybraní "
+"komiksu v seznamu se vám tento zobrazí v pravé části. Děkujeme za používání "
+"aplikace Buoh."
+
+#: src/buoh-window.c:433
+msgid "Images"
+msgstr "Obrázky"
+
+#: src/buoh-window.c:436
+msgid "Save Comic"
+msgstr "Uložit komiks"
+
+#: src/buoh-window.c:439
+msgid "_Cancel"
+msgstr "_Zrušit"
+
+#: src/buoh-window.c:440
+msgid "_Save"
+msgstr "_Uložit"
+
+#: src/buoh-window.c:479
+msgid "Unable to save comic"
+msgstr "Nelze uložit komiks"
+
+#: src/buoh-window.c:744
+msgid "translator-credits"
+msgstr "Marek Černocký <marek@manet.cz>"
+
+#: src/buoh-window.c:879
+msgid "Getting comic…"
+msgstr "Získává se komiks…"
