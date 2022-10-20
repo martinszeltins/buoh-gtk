@@ -190,14 +190,14 @@ static const GActionEntry menu_entries[] = {
 
 G_DEFINE_FINAL_TYPE (BuohWindow, buoh_window, GTK_TYPE_APPLICATION_WINDOW)
 
-static void buoh_window_init (BuohWindow *buoh_window)
+static void buoh_window_init (BuohWindow * buoh_window)
 {
-    GtkWidget        *tree_view;
-    GtkTreeModel     *model;
-    GtkTreeSelection *selection;
-    GActionMap       *action_map;
-    GAction          *action;
-    BuohViewZoomMode  zoom_mode;
+    GtkWidget        * tree_view;
+    GtkTreeModel     * model;
+    GtkTreeSelection * selection;
+    GActionMap       * action_map;
+    GAction          * action;
+    BuohViewZoomMode   zoom_mode;
 
     g_type_ensure (BUOH_TYPE_COMIC_LIST);
     g_type_ensure (BUOH_TYPE_VIEW);
