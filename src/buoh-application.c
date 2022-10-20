@@ -371,20 +371,6 @@ buoh_application_init (BuohApplication *buoh)
                           (gpointer) buoh);
 }
 
-static void buoh_application_class_init (BuohApplicationClass * klass)
-{
-    /**
-     * This will set finalize, activate and startup properties on klass
-     * because of references.
-     */
-    GObjectClass      * object_class = G_OBJECT_CLASS (klass);
-    GApplicationClass * app_class    = G_APPLICATION_CLASS (klass);
-
-    object_class->finalize = buoh_application_finalize;
-    app_class->activate    = buoh_application_activate;
-    app_class->startup     = buoh_application_startup;
-}
-
 static void
 buoh_application_finalize (GObject *object)
 {
@@ -423,8 +409,22 @@ BuohApplication * buoh_application_get_instance (void)
     return g_object_new (BUOH_TYPE_APPLICATION, "application-id", "org.gnome.buoh", NULL);
 }
 
+static void buoh_application_class_init (BuohApplicationClass * klass)
+{
+    /**
+     * This will set finalize, activate and startup properties on klass
+     * because of references.
+     */
+    GObjectClass      * object_class = G_OBJECT_CLASS (klass);
+    GApplicationClass * app_class    = G_APPLICATION_CLASS (klass);
+
+    object_class->finalize = buoh_application_finalize;
+    app_class->activate    = buoh_application_activate;
+    app_class->startup     = buoh_application_startup;
+}
+
 void
-buoh_application_activate (GApplication *buoh)
+buoh_application_activate (GApplication * buoh)
 {
         g_return_if_fail (BUOH_IS_APPLICATION (buoh));
 
