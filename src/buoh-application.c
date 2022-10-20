@@ -423,22 +423,19 @@ static void buoh_application_class_init (BuohApplicationClass * klass)
     object_class->finalize = buoh_application_finalize;
 }
 
-void
-buoh_application_activate (GApplication * buoh)
+void buoh_application_activate (GApplication * buoh)
 {
-        g_return_if_fail (BUOH_IS_APPLICATION (buoh));
+    GList * window_instances;
+    BuohWindow * window;
 
-        GList *list;
-        BuohWindow *window;
+    window_instances = gtk_application_get_windows (GTK_APPLICATION (buoh));
 
-        list = gtk_application_get_windows (GTK_APPLICATION (buoh));
-
-        if (list) {
-                gtk_window_present (GTK_WINDOW (list->data));
-        } else {
-                window = buoh_window_new (BUOH_APPLICATION (buoh));
-                gtk_widget_show (GTK_WIDGET (window));
-        }
+    if (window_instances) {
+        gtk_window_present (GTK_WINDOW (window_instances->data));
+    } else {
+        window = buoh_window_new (BUOH_APPLICATION (buoh));
+        gtk_widget_show (GTK_WIDGET (window));
+    }
 }
 
 void
